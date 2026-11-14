@@ -1,0 +1,6 @@
+B|1|14-Nov-2026 15:28|13|cashier|Card|3700.00|370.00|166.50|174.83|-0.32|3671.00|5
+I|Spring Rolls|5|450.00
+I|Fresh Lime Juice|2|250.00
+I|Iced Coffee|1|400.00
+I|Soft Drink|1|200.00
+I|Ice Cream|1|350.00
