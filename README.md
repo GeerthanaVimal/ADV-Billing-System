@@ -38,14 +38,6 @@ gcc billmate.c -o billmate.exe
 .\billmate.exe
 ```
 
-**Linux / macOS**
-```
-gcc -Wall -Wextra -o billmate billmate.c
-./billmate
-```
-
-You can also open `billmate.c` in Code::Blocks and press **F9**, or run it in an online compiler such as OnlineGDB (saved data will not persist there).
-
 ### Default logins
 
 | Role    | Username  | PIN  |
@@ -162,20 +154,3 @@ I|dish name|qty|unit price
 
 ---
 
-## Future Improvements
-
-- Hide the PIN while typing
-- Edit or void a saved bill
-- Monthly sales report
-- Customer loyalty points
-- Export reports to CSV
-
----
-
-## License
-
-This project is released under the MIT License. You are free to use, modify and share it.
-
-## Author
-
-Created by **Your Name**. Replace this line with your name and GitHub profile link.
