@@ -30,14 +30,6 @@ A console-based restaurant order and billing terminal written in **C**. Cashiers
 
 - A C compiler such as **GCC** (MinGW-w64 on Windows)
 
-### Build and run
-
-**Windows (PowerShell)**
-```
-gcc billmate.c -o billmate.exe
-.\billmate.exe
-```
-
 ### Default logins
 
 | Role    | Username  | PIN  |
