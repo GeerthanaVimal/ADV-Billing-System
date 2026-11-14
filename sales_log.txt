@@ -1,0 +1,5 @@
+B|1|14-Nov-2026 14:55|13|admin|Card|3750.00|375.00|168.75|177.19|0.06|3721.00|4
+I|Spring Rolls|5|450.00
+I|Fresh Lime Juice|2|250.00
+I|Iced Coffee|2|400.00
+I|Soft Drink|1|200.00
